@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="wish">Happy Birthday to you, \n\t\t\t\t\t\t\t\t abhishek!!</string>
+    <string name="from">your\'s truely \nabhishek</string>
+</resources>
